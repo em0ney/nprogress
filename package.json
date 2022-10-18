@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "chai": "~1.6.1",
-    "mocha": "~1.11.0",
+    "mocha": "~10.1.0",
     "jsdom": "~0.6.5"
   }
 }
